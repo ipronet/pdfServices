@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipronet/pdfServices.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ipronet/pdfServices/issues"
+  },
+  "homepage": "https://github.com/ipronet/pdfServices#readme"
 }
